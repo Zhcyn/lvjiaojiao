@@ -1,0 +1,91 @@
+{
+  "images" : [
+    {
+      "filename" : "icon-29@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "icon-29@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (2).png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x45"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (3).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x45"
+    },
+    {
+      "filename" : "icon-29@2x-1.png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (4).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "67x50"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (5).png",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "74x55"
+    },
+    {
+      "filename" : "icon-1024.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (6).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (7).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (8).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (9).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "红蓝色天安门红旗中式建党节党政司法宣传中文微信公众号小图 (1).png",
+      "idiom" : "ios-marketing",
+      "platform" : "ios",
+      "scale" : "1x",
+      "size" : "1024x768"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
